@@ -1,4 +1,4 @@
-# Elgin Tan Yong Cong 👋
+# Tan Yong Cong Elgin 👋
 
 Data Analytics Graduate | Machine Learning | Data Visualisation
 
