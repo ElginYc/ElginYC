@@ -83,8 +83,9 @@ Applied unsupervised machine learning techniques for customer segmentation and p
 ### Key Results
 
 - Compared 20 clustering models using different feature combinations and clustering configurations.
-- Hierarchical Clustering achieved the highest Silhouette Score of 0.7822.
-- Customer patterns were identified using numerical features such as duration, credit amount, and age.
+- Hierarchical Clustering achieved the highest Silhouette Score of 0.7822 among the tested models.
+- Cluster distribution was also considered during model selection to identify meaningful customer segments.
+- Customer patterns were identified using numerical features such as duration in month, credit amount, and age.
 
 Repository:
 - Unsupervised Machine Learning Project
